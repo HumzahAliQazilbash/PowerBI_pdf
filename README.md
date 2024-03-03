@@ -9,7 +9,7 @@ This dashboard helps understand more about who is working in the technology sect
 
 ### Preview
 
-![Screenshot 2024-02-12 150646](https://github.com/HumzahAliQazilbash/PowerBI_techjobs/assets/152615068/798f1128-ed18-4fa2-9e93-85871493b959)
+![image](https://github.com/HumzahAliQazilbash/PowerBI_techjobs/assets/152615068/1cec4ec9-3812-4190-9fd0-1a47c7a5a0ec)
 
 ### Summary
 
